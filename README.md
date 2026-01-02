@@ -81,3 +81,7 @@ out of scope.
 For customization of the Frida script, an example file `flutter.js` is provided. Note that file-inject will
 automatically
 replace `com.myproject` with the package name passed as argument.
+
+## Related Projects
+
+- [syn](https://github.com/4evernever77777/syn) - Related project by the same author
